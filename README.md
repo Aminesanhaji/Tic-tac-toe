@@ -26,6 +26,6 @@ Il n'est pas possible de joueur sur une case déjà remplie ou de jouer en tapan
 
 ## :computer: La team 
 
-Ce programme est fait par Amine SANHAJI & 
+Ce programme est fait par Amine SANHAJI & Nicolas BOUJU
 
 Fait avec amour :trollface: !  :kissing_heart:
